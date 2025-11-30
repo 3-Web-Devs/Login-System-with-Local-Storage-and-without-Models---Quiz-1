@@ -1,8 +1,7 @@
-# Login System with LocalStorage (Without Models) – Quiz 1
+# Login System with LocalStorage– Quiz 1
 
-A simple Login and Registration System built using HTML, CSS, and JavaScript.  
+A simple Login and Registration System built using HTML, CSS, and JavaScript on React+Vite.  
 All user data is stored in LocalStorage as required by the Advance Web Development – Quiz 1 instructions.  
-No backend or models are used.
 
 ---
 
@@ -15,40 +14,22 @@ No backend or models are used.
 - Session Handling using LocalStorage
 - Protected Dashboard Page
 - Logout Functionality
-- 100% Frontend Only
 - Simple and Clean UI
 
 ---
 
-## Folder Structure
-
-
-/project-root
-│── index.html
-│── signup.html
-│── login.html
-│── dashboard.html
-│── script.js
-│── style.css
-│── env.txt
-└── README.md
-
-
----
 
 ## About env.txt (IMPORTANT)
 
-If you created a .env or .env.local file during development:
+Created a .env or .env.local file during development:
 
-Rename it to:
-
+Renamed it to:
 
 env.txt
 
 
-before uploading to GitHub.
 
-This allows the instructor to view your environment variables directly.
+
 
 ---
 
@@ -56,8 +37,8 @@ This allows the instructor to view your environment variables directly.
 
 | Category | Technology |
 |----------|------------|
-| Frontend | HTML, CSS, JavaScript |
-| Storage | LocalStorage |
+| Frontend | HTML, CSS, JavaScript, React+Vite |
+| Backend | Mongodb |
 | Version Control | Git & GitHub |
 | Environment File | env.txt |
 
@@ -65,7 +46,6 @@ This allows the instructor to view your environment variables directly.
 
 ## How to Run the Project
 
-No installation or backend setup is required.
 
 1. Download or clone the repository
 2. Open the project folder
